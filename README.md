@@ -1,2 +1,2 @@
 # Notas:
-Aplicación con Sockets simulando un sistema de tockets de un banco
+Aplicación con Sockets simulando un sistema de tickets de un banco
